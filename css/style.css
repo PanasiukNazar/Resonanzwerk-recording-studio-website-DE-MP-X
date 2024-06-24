@@ -2424,6 +2424,7 @@ ul.arrow li:before {
 }
 
 .copyright.angle:before {
+    display: none;
     background: #191919;
     height: 50px;
     top: -25px;
