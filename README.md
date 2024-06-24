@@ -1,1 +1,1 @@
-[DEMO](https://panasiuknazar.github.io/SchweizerKlangfabrik-recording-studio-website-DE-MP-VII/)
+[DEMO](https://panasiuknazar.github.io/Resonanzwerk-recording-studio-website-DE-MP-X/)
