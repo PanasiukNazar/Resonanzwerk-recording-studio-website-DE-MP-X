@@ -1761,6 +1761,10 @@ figure.effect-oscar:hover img {
     font-size: 20px;
 }
 
+#team img {
+    object-fit: cover;
+}
+
 .team-content p {
     color: #959595;
 }
@@ -2485,6 +2489,13 @@ ul.arrow li:before {
 
 #banner-area {
     position: relative;
+    height: 300px;
+}
+
+#banner-area img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
 }
 
 .banner-title-content {
