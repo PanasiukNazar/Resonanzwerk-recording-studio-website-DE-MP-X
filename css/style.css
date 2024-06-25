@@ -3355,7 +3355,7 @@ header h2 {
     width: calc(100% / 2 - 10px);
     transition: all 0.5s ease;
     max-width: 150px;
-    border-radius: 0;
+    border-radius: 30px;
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
